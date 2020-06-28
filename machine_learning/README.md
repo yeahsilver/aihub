@@ -12,7 +12,8 @@
 
 ## 벡터
 
-사진1
+<img width="699" alt="스크린샷 2020-06-28 오후 3 44 23" src="https://user-images.githubusercontent.com/39258902/85940239-3eca6900-b956-11ea-9d30-8da75c6c4b77.png">
+
 
 
 
@@ -20,13 +21,13 @@
 
 #### Norm
 
-사진 2
+<img width="599" alt="스크린샷 2020-06-28 오후 3 46 53" src="https://user-images.githubusercontent.com/39258902/85940328-98329800-b956-11ea-9d94-7e7e92cf0b8c.png">
 
 
 
 #### 내적 (= Euclidean inner product / Dot product)
 
-사진 3
+<img width="619" alt="스크린샷 2020-06-28 오후 3 51 45" src="https://user-images.githubusercontent.com/39258902/85940425-48080580-b957-11ea-8d73-e3c0ac994619.png">
 
 - 같은 차원끼리 곱함.
 - 주의) 다른 차원에서는 곱셈을 할 수 없음. 
@@ -37,7 +38,7 @@
 
 : 실수를 직사각형 모양으로 배열한 것
 
-사진 4
+<img width="510" alt="스크린샷 2020-06-28 오후 3 53 16" src="https://user-images.githubusercontent.com/39258902/85940451-7d145800-b957-11ea-9487-0327a0493ad7.png">
 
 
 
@@ -45,21 +46,22 @@
 
 - 같은 차원을 가지고 있는 행렬끼리만 더하거나 뺄 수 있다. 
 
-사진 5
+<img width="533" alt="스크린샷 2020-06-28 오후 3 54 35" src="https://user-images.githubusercontent.com/39258902/85940494-acc36000-b957-11ea-9aff-d678eb598d40.png">
+
 
 
 
 - 행렬끼리 곱할 때는 차원을 주의해야 한다.
 
-사진 6
 
-
+<img width="537" alt="스크린샷 2020-06-28 오후 3 56 25" src="https://user-images.githubusercontent.com/39258902/85940539-ee540b00-b957-11ea-9ade-8509d722fa18.png">
 
 ## Transpose( = 전치행렬)
 
 : 전치행렬은 원행렬의 행과 열을 뒤바꾼 행렬이다.
 
-사진 7
+<img width="321" alt="스크린샷 2020-06-28 오후 3 59 42" src="https://user-images.githubusercontent.com/39258902/85940615-63bfdb80-b958-11ea-8e31-416aad5c290b.png">
+
 
 
 
