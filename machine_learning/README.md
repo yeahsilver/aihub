@@ -296,3 +296,22 @@ np.std(x) # 표준편차: 0.82915619758884995
 <img width="613" alt="스크린샷 2020-06-29 오후 3 11 43" src="https://user-images.githubusercontent.com/39258902/85979088-db563f00-ba1a-11ea-8efc-4f7689cd8f57.png">
 
 <img width="630" alt="스크린샷 2020-06-29 오후 3 12 46" src="https://user-images.githubusercontent.com/39258902/85979209-ff198500-ba1a-11ea-9a8b-084fb8f653c2.png">
+
+
+
+# 나이브 베이즈 분류
+
+ ### 조건부 확률
+
+: 사건 B가 일어났을 때 A가 일어날 확률
+
+사진 1
+
+
+
+#### 확률로 파이 구하기
+
+##### Monte Carlo Method
+
+- 임의의 점을 찍으면서 모양과 넓이를 구함.
+
