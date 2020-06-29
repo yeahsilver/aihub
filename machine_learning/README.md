@@ -320,10 +320,10 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 ### 베이즈 법칙
 
-사진 2
+<img width="418" alt="스크린샷 2020-06-29 오후 9 04 34" src="https://user-images.githubusercontent.com/39258902/86003019-250b4d80-ba4c-11ea-82c3-d2a2029d9525.png">
 
 
 
 ##### 베이즈 법칙 : 유도하기
 
-사진 3
+<img width="532" alt="스크린샷 2020-06-29 오후 9 07 23" src="https://user-images.githubusercontent.com/39258902/86003288-892e1180-ba4c-11ea-9363-64b6ceb4c37a.png">
