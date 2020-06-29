@@ -241,13 +241,13 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 ## 다중 선형 회귀 분석
 
-사진 1
+<img width="606" alt="스크린샷 2020-06-29 오후 2 44 32" src="https://user-images.githubusercontent.com/39258902/85977185-0ccd0b80-ba17-11ea-8453-87f2d0d6a985.png">
 
 ### 다중 회귀 분석
 
-사진 2
+<img width="592" alt="스크린샷 2020-06-29 오후 2 46 31" src="https://user-images.githubusercontent.com/39258902/85977292-53bb0100-ba17-11ea-98a3-ec22fb1fbe11.png">
+<img width="631" alt="스크린샷 2020-06-29 오후 2 47 06" src="https://user-images.githubusercontent.com/39258902/85977352-69302b00-ba17-11ea-9c22-899156704ae2.png">
 
-사진 3
 
 - x: vector
 - y: scalar
@@ -264,7 +264,8 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 - 가정: 판매량은 FB, TV, 신문 광고료와 선형적인 관계를 가지고 있다
 
-  사진 4
+  <img width="333" alt="스크린샷 2020-06-29 오후 2 50 32" src="https://user-images.githubusercontent.com/39258902/85977601-e3f94600-ba17-11ea-9ccd-4f3d62296e23.png">
+
 
 
 
@@ -278,5 +279,5 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 #### 수학적으로 다시 쓰기
 
-사진 5
+<img width="607" alt="스크린샷 2020-06-29 오후 2 52 39" src="https://user-images.githubusercontent.com/39258902/85977763-2fabef80-ba18-11ea-81c7-0b56e04e554f.png">
 
