@@ -154,11 +154,12 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 예시) 키가 175인 신입생 A가 들어왔다. 이때 예상 몸무게는 몇인가?
 
-사진1
+<img width="498" alt="스크린샷 2020-06-29 오전 11 06 26" src="https://user-images.githubusercontent.com/39258902/85965735-95887f00-b9f8-11ea-9925-841e8217a345.png">
 
 ##### 회귀 분석법
 
-사진 2
+<img width="281" alt="스크린샷 2020-06-29 오전 11 08 15" src="https://user-images.githubusercontent.com/39258902/85965798-d5e7fd00-b9f8-11ea-8e03-8b9f68870fd8.png">
+
 
 - 데이터: 광고 분석과 판매량
 - 목표: 광고에 얼마를 투자하면 상품이 얼마나 팔릴까?
@@ -168,33 +169,33 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 ##### 변수 표기
 
-사진 3
+<img width="650" alt="스크린샷 2020-06-29 오전 11 09 29" src="https://user-images.githubusercontent.com/39258902/85965841-02037e00-b9f9-11ea-9571-b71ef54aa819.png">
 
 
 
 ##### 문제정의
 
-사진 4
+<img width="631" alt="스크린샷 2020-06-29 오전 11 19 05" src="https://user-images.githubusercontent.com/39258902/85966313-59561e00-b9fa-11ea-97be-1fa247855890.png">
 
 
 
 ##### 모델의 학습 목표
 
-사진 5
+<img width="650" alt="스크린샷 2020-06-29 오후 1 27 02" src="https://user-images.githubusercontent.com/39258902/85972938-39c7f100-ba0c-11ea-8304-c3d8e716d770.png">
 
 - 어떤 추세선이 좋은 것인지를 예측해야함. -> 트레이닝 중요!
 
 
 
-사진 6
+<img width="639" alt="스크린샷 2020-06-29 오후 1 29 26" src="https://user-images.githubusercontent.com/39258902/85973031-90cdc600-ba0c-11ea-968d-5c9617404d8c.png">
 
 - 실제값(x, y)과 추세선 사이의 거리를 최소화하는 것이 목표!
 
-사진 7
+<img width="642" alt="스크린샷 2020-06-29 오후 1 31 38" src="https://user-images.githubusercontent.com/39258902/85973167-dee2c980-ba0c-11ea-8d04-15bd7be75a4e.png">
 
 - 차이: 실제값 - 예측 값
 
-- 전체 모델의 차이: 사진 8
+- 전체 모델의 차이: <img width="273" alt="스크린샷 2020-06-29 오후 1 32 54" src="https://user-images.githubusercontent.com/39258902/85973220-0c2f7780-ba0d-11ea-82e7-9fe816c56509.png">
 
  --> 이렇게 하면 안됨!
 
@@ -204,16 +205,16 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 ##### 반례
 
-사진 9
+<img width="639" alt="스크린샷 2020-06-29 오후 1 34 08" src="https://user-images.githubusercontent.com/39258902/85973290-3719cb80-ba0d-11ea-9ad8-fda6b84eff4b.png">
 
 
 
 ##### 해결
 
-사진 10
+<img width="590" alt="스크린샷 2020-06-29 오후 1 35 36" src="https://user-images.githubusercontent.com/39258902/85973337-6c261e00-ba0d-11ea-8445-6690f06f6f23.png">
 
 
 
 ##### 문제 재정의
 
-사진 11
+<img width="636" alt="스크린샷 2020-06-29 오후 1 36 13" src="https://user-images.githubusercontent.com/39258902/85973375-83650b80-ba0d-11ea-8b6b-5490a26a7f93.png">
