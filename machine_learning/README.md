@@ -291,8 +291,8 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 - 조금 더 데이터에 맞게 모델을 학습시킬 수 없을까?
 
-  사진 6
+  <img width="433" alt="스크린샷 2020-06-29 오후 3 10 30" src="https://user-images.githubusercontent.com/39258902/85978987-af3abe00-ba1a-11ea-9b34-5f4e4f3a7d4e.png">
 
-사진 7
+<img width="613" alt="스크린샷 2020-06-29 오후 3 11 43" src="https://user-images.githubusercontent.com/39258902/85979088-db563f00-ba1a-11ea-8efc-4f7689cd8f57.png">
 
-사진 8
+<img width="630" alt="스크린샷 2020-06-29 오후 3 12 46" src="https://user-images.githubusercontent.com/39258902/85979209-ff198500-ba1a-11ea-9a8b-084fb8f653c2.png">
