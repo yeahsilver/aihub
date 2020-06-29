@@ -233,7 +233,6 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 ### 거꾸로 된 산을 내려가기
 
-사진 1
+<img width="633" alt="스크린샷 2020-06-29 오후 2 20 53" src="https://user-images.githubusercontent.com/39258902/85975716-c0cc9780-ba13-11ea-91b2-cc50d1ac96da.png">
 
-사진 2
-
+<img width="492" alt="스크린샷 2020-06-29 오후 2 22 01" src="https://user-images.githubusercontent.com/39258902/85975775-e9549180-ba13-11ea-8f34-3ace1611fbcf.png">
