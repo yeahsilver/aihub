@@ -305,7 +305,8 @@ np.std(x) # 표준편차: 0.82915619758884995
 
 : 사건 B가 일어났을 때 A가 일어날 확률
 
-사진 1
+<img width="310" alt="스크린샷 2020-06-29 오후 8 49 49" src="https://user-images.githubusercontent.com/39258902/86001601-158b0500-ba4a-11ea-9d93-43a29f15a5dd.png">
+
 
 
 
